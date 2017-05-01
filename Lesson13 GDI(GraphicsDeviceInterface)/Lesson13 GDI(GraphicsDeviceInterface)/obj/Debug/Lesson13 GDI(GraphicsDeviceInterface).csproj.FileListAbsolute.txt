@@ -1,0 +1,15 @@
+D:\Antsiferov\WinForms\Code\Lesson13 GDI(GraphicsDeviceInterface)\Lesson13 GDI(GraphicsDeviceInterface)\bin\Debug\Lesson13 GDI(GraphicsDeviceInterface).exe.config
+D:\Antsiferov\WinForms\Code\Lesson13 GDI(GraphicsDeviceInterface)\Lesson13 GDI(GraphicsDeviceInterface)\bin\Debug\Lesson13 GDI(GraphicsDeviceInterface).exe
+D:\Antsiferov\WinForms\Code\Lesson13 GDI(GraphicsDeviceInterface)\Lesson13 GDI(GraphicsDeviceInterface)\bin\Debug\Lesson13 GDI(GraphicsDeviceInterface).pdb
+D:\Antsiferov\WinForms\Code\Lesson13 GDI(GraphicsDeviceInterface)\Lesson13 GDI(GraphicsDeviceInterface)\obj\Debug\Lesson13 GDI(GraphicsDeviceInterface).csprojResolveAssemblyReference.cache
+D:\Antsiferov\WinForms\Code\Lesson13 GDI(GraphicsDeviceInterface)\Lesson13 GDI(GraphicsDeviceInterface)\obj\Debug\Lesson13_GDI_GraphicsDeviceInterface_.MainForm.resources
+D:\Antsiferov\WinForms\Code\Lesson13 GDI(GraphicsDeviceInterface)\Lesson13 GDI(GraphicsDeviceInterface)\obj\Debug\Lesson13_GDI_GraphicsDeviceInterface_.Properties.Resources.resources
+D:\Antsiferov\WinForms\Code\Lesson13 GDI(GraphicsDeviceInterface)\Lesson13 GDI(GraphicsDeviceInterface)\obj\Debug\Lesson13 GDI(GraphicsDeviceInterface).csproj.GenerateResource.Cache
+D:\Antsiferov\WinForms\Code\Lesson13 GDI(GraphicsDeviceInterface)\Lesson13 GDI(GraphicsDeviceInterface)\obj\Debug\Lesson13 GDI(GraphicsDeviceInterface).exe
+D:\Antsiferov\WinForms\Code\Lesson13 GDI(GraphicsDeviceInterface)\Lesson13 GDI(GraphicsDeviceInterface)\obj\Debug\Lesson13 GDI(GraphicsDeviceInterface).pdb
+D:\Tarasov\WinForms\Code\Lesson13 GDI(GraphicsDeviceInterface)\Lesson13 GDI(GraphicsDeviceInterface)\bin\Debug\Lesson13 GDI(GraphicsDeviceInterface).exe.config
+D:\Tarasov\WinForms\Code\Lesson13 GDI(GraphicsDeviceInterface)\Lesson13 GDI(GraphicsDeviceInterface)\obj\Debug\Lesson13 GDI(GraphicsDeviceInterface).exe
+D:\Tarasov\WinForms\Code\Lesson13 GDI(GraphicsDeviceInterface)\Lesson13 GDI(GraphicsDeviceInterface)\obj\Debug\Lesson13 GDI(GraphicsDeviceInterface).pdb
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson13 GDI(GraphicsDeviceInterface)\Lesson13 GDI(GraphicsDeviceInterface)\bin\Debug\Lesson13 GDI(GraphicsDeviceInterface).exe.config
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson13 GDI(GraphicsDeviceInterface)\Lesson13 GDI(GraphicsDeviceInterface)\obj\Debug\Lesson13 GDI(GraphicsDeviceInterface).exe
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson13 GDI(GraphicsDeviceInterface)\Lesson13 GDI(GraphicsDeviceInterface)\obj\Debug\Lesson13 GDI(GraphicsDeviceInterface).pdb

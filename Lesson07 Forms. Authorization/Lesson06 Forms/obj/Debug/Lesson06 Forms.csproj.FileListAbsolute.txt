@@ -1,0 +1,40 @@
+D:\Tarasov\WinForms\Code\Lesson06 Forms\Lesson06 Forms\bin\Debug\Lesson06 Forms.exe.config
+D:\Tarasov\WinForms\Code\Lesson06 Forms\Lesson06 Forms\bin\Debug\Lesson06 Forms.exe
+D:\Tarasov\WinForms\Code\Lesson06 Forms\Lesson06 Forms\bin\Debug\Lesson06 Forms.pdb
+D:\Tarasov\WinForms\Code\Lesson06 Forms\Lesson06 Forms\obj\Debug\Lesson06 Forms.csprojResolveAssemblyReference.cache
+D:\Tarasov\WinForms\Code\Lesson06 Forms\Lesson06 Forms\obj\Debug\Lesson06_Forms.MainForm.resources
+D:\Tarasov\WinForms\Code\Lesson06 Forms\Lesson06 Forms\obj\Debug\Lesson06_Forms.Properties.Resources.resources
+D:\Tarasov\WinForms\Code\Lesson06 Forms\Lesson06 Forms\obj\Debug\Lesson06 Forms.csproj.GenerateResource.Cache
+D:\Tarasov\WinForms\Code\Lesson06 Forms\Lesson06 Forms\obj\Debug\Lesson06 Forms.exe
+D:\Tarasov\WinForms\Code\Lesson06 Forms\Lesson06 Forms\obj\Debug\Lesson06 Forms.pdb
+D:\Tarasov\WinForms\Code\Lesson06 Forms\Lesson06 Forms\obj\Debug\Lesson06_Forms.Forms.SecondForm.resources
+d:\Study\IT Academy Step\WinForms\Code\Lesson06 Forms\Lesson06 Forms\bin\Debug\Lesson06 Forms.exe.config
+d:\Study\IT Academy Step\WinForms\Code\Lesson06 Forms\Lesson06 Forms\obj\Debug\Lesson06 Forms.exe
+d:\Study\IT Academy Step\WinForms\Code\Lesson06 Forms\Lesson06 Forms\obj\Debug\Lesson06 Forms.pdb
+d:\Study\IT Academy Step\WinForms\Code\Lesson06 Forms\Lesson06 Forms\bin\Debug\Lesson06 Forms.exe
+d:\Study\IT Academy Step\WinForms\Code\Lesson06 Forms\Lesson06 Forms\bin\Debug\Lesson06 Forms.pdb
+d:\Study\IT Academy Step\WinForms\Code\Lesson06 Forms\Lesson06 Forms\obj\Debug\Lesson06 Forms.csprojResolveAssemblyReference.cache
+d:\Study\IT Academy Step\WinForms\Code\Lesson06 Forms\Lesson06 Forms\obj\Debug\Lesson06_Forms.Forms.SecondForm.resources
+d:\Study\IT Academy Step\WinForms\Code\Lesson06 Forms\Lesson06 Forms\obj\Debug\Lesson06_Forms.MainForm.resources
+d:\Study\IT Academy Step\WinForms\Code\Lesson06 Forms\Lesson06 Forms\obj\Debug\Lesson06_Forms.Properties.Resources.resources
+d:\Study\IT Academy Step\WinForms\Code\Lesson06 Forms\Lesson06 Forms\obj\Debug\Lesson06 Forms.csproj.GenerateResource.Cache
+D:\Study\IT Academy Step\WinForms\Lesson06 Forms\Lesson06 Forms\bin\Debug\Lesson06 Forms.exe.config
+D:\Study\IT Academy Step\WinForms\Lesson06 Forms\Lesson06 Forms\obj\Debug\Lesson06 Forms.exe
+D:\Study\IT Academy Step\WinForms\Lesson06 Forms\Lesson06 Forms\obj\Debug\Lesson06 Forms.pdb
+D:\Study\IT Academy Step\WinForms\Lesson06 Forms\Lesson06 Forms\bin\Debug\Lesson06 Forms.exe
+D:\Study\IT Academy Step\WinForms\Lesson06 Forms\Lesson06 Forms\bin\Debug\Lesson06 Forms.pdb
+D:\Study\IT Academy Step\WinForms\Lesson06 Forms\Lesson06 Forms\obj\Debug\Lesson06 Forms.csprojResolveAssemblyReference.cache
+D:\Study\IT Academy Step\WinForms\Lesson06 Forms\Lesson06 Forms\obj\Debug\Lesson06_Forms.Forms.SecondForm.resources
+D:\Study\IT Academy Step\WinForms\Lesson06 Forms\Lesson06 Forms\obj\Debug\Lesson06_Forms.MainForm.resources
+D:\Study\IT Academy Step\WinForms\Lesson06 Forms\Lesson06 Forms\obj\Debug\Lesson06_Forms.Properties.Resources.resources
+D:\Study\IT Academy Step\WinForms\Lesson06 Forms\Lesson06 Forms\obj\Debug\Lesson06 Forms.csproj.GenerateResource.Cache
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson06 Forms\Lesson06 Forms\bin\Debug\Lesson06 Forms.exe.config
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson06 Forms\Lesson06 Forms\obj\Debug\Lesson06 Forms.exe
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson06 Forms\Lesson06 Forms\obj\Debug\Lesson06 Forms.pdb
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson06 Forms\Lesson06 Forms\bin\Debug\Lesson06 Forms.exe
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson06 Forms\Lesson06 Forms\bin\Debug\Lesson06 Forms.pdb
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson06 Forms\Lesson06 Forms\obj\Debug\Lesson06 Forms.csprojResolveAssemblyReference.cache
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson06 Forms\Lesson06 Forms\obj\Debug\Lesson06_Forms.Forms.SecondForm.resources
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson06 Forms\Lesson06 Forms\obj\Debug\Lesson06_Forms.MainForm.resources
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson06 Forms\Lesson06 Forms\obj\Debug\Lesson06_Forms.Properties.Resources.resources
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson06 Forms\Lesson06 Forms\obj\Debug\Lesson06 Forms.csproj.GenerateResource.Cache

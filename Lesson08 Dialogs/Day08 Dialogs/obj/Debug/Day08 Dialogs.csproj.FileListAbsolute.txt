@@ -1,0 +1,15 @@
+D:\Tarasov\WinForms\Code\Day08 Dialogs\Day08 Dialogs\bin\Debug\Day08 Dialogs.exe.config
+D:\Tarasov\WinForms\Code\Day08 Dialogs\Day08 Dialogs\bin\Debug\Day08 Dialogs.exe
+D:\Tarasov\WinForms\Code\Day08 Dialogs\Day08 Dialogs\bin\Debug\Day08 Dialogs.pdb
+D:\Tarasov\WinForms\Code\Day08 Dialogs\Day08 Dialogs\obj\Debug\Day08 Dialogs.csprojResolveAssemblyReference.cache
+D:\Tarasov\WinForms\Code\Day08 Dialogs\Day08 Dialogs\obj\Debug\Day08_Dialogs.MainForm.resources
+D:\Tarasov\WinForms\Code\Day08 Dialogs\Day08 Dialogs\obj\Debug\Day08_Dialogs.Properties.Resources.resources
+D:\Tarasov\WinForms\Code\Day08 Dialogs\Day08 Dialogs\obj\Debug\Day08 Dialogs.csproj.GenerateResource.Cache
+D:\Tarasov\WinForms\Code\Day08 Dialogs\Day08 Dialogs\obj\Debug\Day08 Dialogs.exe
+D:\Tarasov\WinForms\Code\Day08 Dialogs\Day08 Dialogs\obj\Debug\Day08 Dialogs.pdb
+d:\Study\IT Academy Step\WinForms\Lesson08 Dialogs\Day08 Dialogs\bin\Debug\Day08 Dialogs.exe.config
+d:\Study\IT Academy Step\WinForms\Lesson08 Dialogs\Day08 Dialogs\obj\Debug\Day08 Dialogs.exe
+d:\Study\IT Academy Step\WinForms\Lesson08 Dialogs\Day08 Dialogs\obj\Debug\Day08 Dialogs.pdb
+D:\Study\IT Academy Step\WinForms\Code\Lesson08 Dialogs\Day08 Dialogs\bin\Debug\Day08 Dialogs.exe.config
+D:\Study\IT Academy Step\WinForms\Code\Lesson08 Dialogs\Day08 Dialogs\obj\Debug\Day08 Dialogs.exe
+D:\Study\IT Academy Step\WinForms\Code\Lesson08 Dialogs\Day08 Dialogs\obj\Debug\Day08 Dialogs.pdb

@@ -1,0 +1,23 @@
+D:\Tarasov\WinForms\Code\Lesson12 MultiDocumentInterface\Lesson12 MultiDocumentInterface\bin\Debug\Lesson12 MultiDocumentInterface.exe.config
+D:\Tarasov\WinForms\Code\Lesson12 MultiDocumentInterface\Lesson12 MultiDocumentInterface\bin\Debug\Lesson12 MultiDocumentInterface.exe
+D:\Tarasov\WinForms\Code\Lesson12 MultiDocumentInterface\Lesson12 MultiDocumentInterface\bin\Debug\Lesson12 MultiDocumentInterface.pdb
+D:\Tarasov\WinForms\Code\Lesson12 MultiDocumentInterface\Lesson12 MultiDocumentInterface\obj\Debug\Lesson12 MultiDocumentInterface.csprojResolveAssemblyReference.cache
+D:\Tarasov\WinForms\Code\Lesson12 MultiDocumentInterface\Lesson12 MultiDocumentInterface\obj\Debug\Lesson12_MultiDocumentInterface.MainForm.resources
+D:\Tarasov\WinForms\Code\Lesson12 MultiDocumentInterface\Lesson12 MultiDocumentInterface\obj\Debug\Lesson12_MultiDocumentInterface.Properties.Resources.resources
+D:\Tarasov\WinForms\Code\Lesson12 MultiDocumentInterface\Lesson12 MultiDocumentInterface\obj\Debug\Lesson12 MultiDocumentInterface.csproj.GenerateResource.Cache
+D:\Tarasov\WinForms\Code\Lesson12 MultiDocumentInterface\Lesson12 MultiDocumentInterface\obj\Debug\Lesson12 MultiDocumentInterface.exe
+D:\Tarasov\WinForms\Code\Lesson12 MultiDocumentInterface\Lesson12 MultiDocumentInterface\obj\Debug\Lesson12 MultiDocumentInterface.pdb
+D:\Tarasov\WinForms\Code\Lesson12 MultiDocumentInterface\Lesson12 MultiDocumentInterface\obj\Debug\Lesson12_MultiDocumentInterface.Forms.UserListForm.resources
+d:\Study\IT Academy Step\WinForms\Code\Lesson12 MultiDocumentInterface\Lesson12 MultiDocumentInterface\bin\Debug\Lesson12 MultiDocumentInterface.exe.config
+d:\Study\IT Academy Step\WinForms\Code\Lesson12 MultiDocumentInterface\Lesson12 MultiDocumentInterface\obj\Debug\Lesson12 MultiDocumentInterface.exe
+d:\Study\IT Academy Step\WinForms\Code\Lesson12 MultiDocumentInterface\Lesson12 MultiDocumentInterface\obj\Debug\Lesson12 MultiDocumentInterface.pdb
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson12 MultiDocumentInterface\Lesson12 MultiDocumentInterface\bin\Debug\Lesson12 MultiDocumentInterface.exe.config
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson12 MultiDocumentInterface\Lesson12 MultiDocumentInterface\obj\Debug\Lesson12 MultiDocumentInterface.exe
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson12 MultiDocumentInterface\Lesson12 MultiDocumentInterface\obj\Debug\Lesson12 MultiDocumentInterface.pdb
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson12 MultiDocumentInterface\Lesson12 MultiDocumentInterface\bin\Debug\Lesson12 MultiDocumentInterface.exe
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson12 MultiDocumentInterface\Lesson12 MultiDocumentInterface\bin\Debug\Lesson12 MultiDocumentInterface.pdb
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson12 MultiDocumentInterface\Lesson12 MultiDocumentInterface\obj\Debug\Lesson12 MultiDocumentInterface.csprojResolveAssemblyReference.cache
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson12 MultiDocumentInterface\Lesson12 MultiDocumentInterface\obj\Debug\Lesson12_MultiDocumentInterface.Forms.UserListForm.resources
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson12 MultiDocumentInterface\Lesson12 MultiDocumentInterface\obj\Debug\Lesson12_MultiDocumentInterface.MainForm.resources
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson12 MultiDocumentInterface\Lesson12 MultiDocumentInterface\obj\Debug\Lesson12_MultiDocumentInterface.Properties.Resources.resources
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson12 MultiDocumentInterface\Lesson12 MultiDocumentInterface\obj\Debug\Lesson12 MultiDocumentInterface.csproj.GenerateResource.Cache

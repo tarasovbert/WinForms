@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson02 ControlElements", "Lesson02 ControlElements\Lesson02 ControlElements.csproj", "{106BC995-D46D-44EC-84B5-89F2FEEA98BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestGasStation", "BestGasStation\BestGasStation.csproj", "{F35566C2-822D-4105-BD35-E2454B5237F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{106BC995-D46D-44EC-84B5-89F2FEEA98BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{106BC995-D46D-44EC-84B5-89F2FEEA98BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{106BC995-D46D-44EC-84B5-89F2FEEA98BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{106BC995-D46D-44EC-84B5-89F2FEEA98BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F35566C2-822D-4105-BD35-E2454B5237F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35566C2-822D-4105-BD35-E2454B5237F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35566C2-822D-4105-BD35-E2454B5237F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35566C2-822D-4105-BD35-E2454B5237F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

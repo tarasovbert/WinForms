@@ -1,0 +1,21 @@
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\MobilePhoneShop\bin\Debug\MobilePhoneShop.exe.config
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\MobilePhoneShop\obj\Debug\MobilePhoneShop.exe
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\MobilePhoneShop\obj\Debug\MobilePhoneShop.pdb
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\MobilePhoneShop\bin\Debug\MobilePhoneShop.exe
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\MobilePhoneShop\bin\Debug\MobilePhoneShop.pdb
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\MobilePhoneShop\obj\Debug\CellphoneShop.csprojResolveAssemblyReference.cache
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\MobilePhoneShop\obj\Debug\MobilePhoneShop.MainForm.resources
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\MobilePhoneShop\obj\Debug\MobilePhoneShop.Properties.Resources.resources
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\MobilePhoneShop\obj\Debug\CellphoneShop.csproj.GenerateResource.Cache
+D:\Study\IT Academy Step\WinForms\Code\Lesson03 ListElements\MobilePhoneShop\bin\Debug\MobilePhoneShop.exe.config
+D:\Study\IT Academy Step\WinForms\Code\Lesson03 ListElements\MobilePhoneShop\obj\Debug\MobilePhoneShop.exe
+D:\Study\IT Academy Step\WinForms\Code\Lesson03 ListElements\MobilePhoneShop\obj\Debug\MobilePhoneShop.pdb
+D:\Study\IT Academy Step\WinForms\Code\Lesson03 ListElements\MobilePhoneShop\bin\Debug\MobilePhoneShop.exe
+D:\Study\IT Academy Step\WinForms\Code\Lesson03 ListElements\MobilePhoneShop\bin\Debug\MobilePhoneShop.pdb
+D:\Study\IT Academy Step\WinForms\Code\Lesson03 ListElements\MobilePhoneShop\obj\Debug\CellphoneShop.csprojResolveAssemblyReference.cache
+D:\Study\IT Academy Step\WinForms\Code\Lesson03 ListElements\MobilePhoneShop\obj\Debug\MobilePhoneShop.Properties.Resources.resources
+D:\Study\IT Academy Step\WinForms\Code\Lesson03 ListElements\MobilePhoneShop\obj\Debug\CellphoneShop.csproj.GenerateResource.Cache
+D:\Study\IT Academy Step\WinForms\Code\Lesson03 ListElements\MobilePhoneShop\obj\Debug\MobilePhoneShop.PhoneShop_MainForm.resources
+d:\Study\IT Academy Step\WinForms\Winforms\Lesson03 ListElements\MobilePhoneShop\bin\Debug\MobilePhoneShop.exe.config
+d:\Study\IT Academy Step\WinForms\Winforms\Lesson03 ListElements\MobilePhoneShop\obj\Debug\MobilePhoneShop.exe
+d:\Study\IT Academy Step\WinForms\Winforms\Lesson03 ListElements\MobilePhoneShop\obj\Debug\MobilePhoneShop.pdb

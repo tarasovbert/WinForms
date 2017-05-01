@@ -1,0 +1,13 @@
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 Locale\bin\Debug\Lesson11 Locale.exe.config
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 Locale\bin\Debug\Lesson11 Locale.exe
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 Locale\bin\Debug\Lesson11 Locale.pdb
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 Locale\obj\Debug\Lesson11_Locale.MainForm.resources
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 Locale\obj\Debug\Lesson11_Locale.Properties.Resources.resources
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 Locale\obj\Debug\Lesson11 LocaleAndSettings.csproj.GenerateResource.Cache
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 Locale\obj\Debug\Lesson11 Locale.exe
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 Locale\obj\Debug\Lesson11 Locale.pdb
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 Locale\bin\Debug\en\Lesson11 Locale.resources.dll
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 Locale\obj\Debug\Lesson11_Locale.MainForm.en.resources
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 Locale\obj\Debug\en\Lesson11 Locale.resources.dll
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 Locale\obj\Debug\Lesson11_Locale.Resources.MessageResourses.resources
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 Locale\obj\Debug\Lesson11_Locale.Resources.MessageResourses.en.resources

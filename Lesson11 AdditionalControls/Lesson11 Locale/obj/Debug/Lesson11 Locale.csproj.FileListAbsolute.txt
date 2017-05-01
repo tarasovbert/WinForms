@@ -1,0 +1,8 @@
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 Locale\bin\Debug\Lesson11 Locale.exe.config
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 Locale\bin\Debug\Lesson11 Locale.exe
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 Locale\bin\Debug\Lesson11 Locale.pdb
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 Locale\obj\Debug\Lesson11_Locale.Properties.Resources.resources
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 Locale\obj\Debug\Lesson11 Locale.csproj.GenerateResource.Cache
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 Locale\obj\Debug\Lesson11 Locale.exe
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 Locale\obj\Debug\Lesson11 Locale.pdb
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 Locale\obj\Debug\Lesson11_Locale.MainForm.resources

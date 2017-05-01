@@ -1,0 +1,11 @@
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\TestListBoxDataSource\bin\Debug\TestListBoxDataSource.exe.config
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\TestListBoxDataSource\bin\Debug\TestListBoxDataSource.exe
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\TestListBoxDataSource\bin\Debug\TestListBoxDataSource.pdb
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\TestListBoxDataSource\obj\Debug\TestListBoxDataSource.MainForm.resources
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\TestListBoxDataSource\obj\Debug\TestListBoxDataSource.Properties.Resources.resources
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\TestListBoxDataSource\obj\Debug\TestListBoxDataSource.csproj.GenerateResource.Cache
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\TestListBoxDataSource\obj\Debug\TestListBoxDataSource.exe
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\TestListBoxDataSource\obj\Debug\TestListBoxDataSource.pdb
+D:\Study\IT Academy Step\WinForms\Code\Lesson03 ListElements\TestListBoxDataSource\bin\Debug\TestListBoxDataSource.exe.config
+D:\Study\IT Academy Step\WinForms\Code\Lesson03 ListElements\TestListBoxDataSource\obj\Debug\TestListBoxDataSource.exe
+D:\Study\IT Academy Step\WinForms\Code\Lesson03 ListElements\TestListBoxDataSource\obj\Debug\TestListBoxDataSource.pdb

@@ -1,0 +1,9 @@
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 DragAndDrop\bin\Debug\Lesson11 DragAndDrop.exe.config
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 DragAndDrop\bin\Debug\Lesson11 DragAndDrop.exe
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 DragAndDrop\bin\Debug\Lesson11 DragAndDrop.pdb
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 DragAndDrop\obj\Debug\Lesson11_DragAndDrop.MainForm.resources
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 DragAndDrop\obj\Debug\Lesson11_DragAndDrop.Properties.Resources.resources
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 DragAndDrop\obj\Debug\Lesson11 DragAndDrop.csproj.GenerateResource.Cache
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 DragAndDrop\obj\Debug\Lesson11 DragAndDrop.exe
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 DragAndDrop\obj\Debug\Lesson11 DragAndDrop.pdb
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 DragAndDrop\obj\Debug\Lesson11 DragAndDrop.csprojResolveAssemblyReference.cache

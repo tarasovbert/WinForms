@@ -1,0 +1,32 @@
+D:\Tarasov\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\bin\Debug\Lesson02 ControlElements.exe.config
+D:\Tarasov\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\bin\Debug\Lesson02 ControlElements.exe
+D:\Tarasov\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\bin\Debug\Lesson02 ControlElements.pdb
+D:\Tarasov\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\obj\Debug\Lesson02 ControlElements.csprojResolveAssemblyReference.cache
+D:\Tarasov\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\obj\Debug\Lesson02_ControlElements.Properties.Resources.resources
+D:\Tarasov\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\obj\Debug\Lesson02 ControlElements.csproj.GenerateResource.Cache
+D:\Tarasov\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\obj\Debug\Lesson02 ControlElements.exe
+D:\Tarasov\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\obj\Debug\Lesson02 ControlElements.pdb
+D:\Tarasov\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\obj\Debug\Lesson02_ControlElements.FireForm2.resources
+D:\Tarasov\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\obj\Debug\Lesson02_ControlElements.GasStation.resources
+D:\Study\IT Academy Step\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\bin\Debug\Lesson02 ControlElements.exe.config
+D:\Study\IT Academy Step\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\obj\Debug\Lesson02 ControlElements.exe
+D:\Study\IT Academy Step\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\obj\Debug\Lesson02 ControlElements.pdb
+d:\Study\IT Academy Step\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\bin\Debug\Lesson02 ControlElements.exe
+d:\Study\IT Academy Step\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\bin\Debug\Lesson02 ControlElements.pdb
+d:\Study\IT Academy Step\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\obj\Debug\Lesson02 ControlElements.csprojResolveAssemblyReference.cache
+d:\Study\IT Academy Step\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\obj\Debug\Lesson02_ControlElements.FireForm2.resources
+d:\Study\IT Academy Step\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\obj\Debug\BestGasStation.GasStation.resources
+d:\Study\IT Academy Step\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\obj\Debug\Lesson02_ControlElements.Properties.Resources.resources
+d:\Study\IT Academy Step\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\obj\Debug\Lesson02 ControlElements.csproj.GenerateResource.Cache
+f:\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\bin\Debug\Lesson02 ControlElements.exe.config
+f:\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\obj\Debug\Lesson02 ControlElements.exe
+f:\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\obj\Debug\Lesson02 ControlElements.pdb
+F:\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\bin\Debug\Lesson02 ControlElements.exe
+F:\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\bin\Debug\Lesson02 ControlElements.pdb
+F:\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\obj\Debug\Lesson02 ControlElements.csprojResolveAssemblyReference.cache
+F:\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\obj\Debug\Lesson02_ControlElements.FireForm2.resources
+F:\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\obj\Debug\Lesson02_ControlElements.Properties.Resources.resources
+F:\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\obj\Debug\Lesson02 ControlElements.csproj.GenerateResource.Cache
+D:\Тарасов\Разное\ИТ\Study\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\bin\Debug\Lesson02 ControlElements.exe.config
+D:\Тарасов\Разное\ИТ\Study\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\obj\Debug\Lesson02 ControlElements.exe
+D:\Тарасов\Разное\ИТ\Study\WinForms\Code\Lesson02 ControlElements\Lesson02 ControlElements\obj\Debug\Lesson02 ControlElements.pdb

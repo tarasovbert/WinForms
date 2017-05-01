@@ -1,0 +1,9 @@
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\MobilePhoneShop\bin\Debug\MobilePhoneShop.exe.config
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\MobilePhoneShop\obj\Debug\MobilePhoneShop.exe
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\MobilePhoneShop\obj\Debug\MobilePhoneShop.pdb
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\MobilePhoneShop\bin\Debug\MobilePhoneShop.exe
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\MobilePhoneShop\bin\Debug\MobilePhoneShop.pdb
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\MobilePhoneShop\obj\Debug\CellphoneShop.csprojResolveAssemblyReference.cache
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\MobilePhoneShop\obj\Debug\MobilePhoneShop.MainForm.resources
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\MobilePhoneShop\obj\Debug\MobilePhoneShop.Properties.Resources.resources
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\MobilePhoneShop\obj\Debug\CellphoneShop.csproj.GenerateResource.Cache

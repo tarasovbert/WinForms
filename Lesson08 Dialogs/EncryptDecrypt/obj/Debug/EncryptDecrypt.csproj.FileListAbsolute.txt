@@ -1,0 +1,21 @@
+D:\Tarasov\WinForms\Code\Day08 Dialogs\EncryptDecrypt\bin\Debug\EncryptDecrypt.exe.config
+D:\Tarasov\WinForms\Code\Day08 Dialogs\EncryptDecrypt\bin\Debug\EncryptDecrypt.exe
+D:\Tarasov\WinForms\Code\Day08 Dialogs\EncryptDecrypt\bin\Debug\EncryptDecrypt.pdb
+D:\Tarasov\WinForms\Code\Day08 Dialogs\EncryptDecrypt\obj\Debug\EncryptDecrypt.csprojResolveAssemblyReference.cache
+D:\Tarasov\WinForms\Code\Day08 Dialogs\EncryptDecrypt\obj\Debug\EncryptDecrypt.Properties.Resources.resources
+D:\Tarasov\WinForms\Code\Day08 Dialogs\EncryptDecrypt\obj\Debug\EncryptDecrypt.csproj.GenerateResource.Cache
+D:\Tarasov\WinForms\Code\Day08 Dialogs\EncryptDecrypt\obj\Debug\EncryptDecrypt.exe
+D:\Tarasov\WinForms\Code\Day08 Dialogs\EncryptDecrypt\obj\Debug\EncryptDecrypt.pdb
+D:\Tarasov\WinForms\Code\Day08 Dialogs\EncryptDecrypt\obj\Debug\EncryptDecrypt.MainForm.resources
+d:\Study\IT Academy Step\WinForms\Lesson08 Dialogs\EncryptDecrypt\bin\Debug\EncryptDecrypt.exe.config
+d:\Study\IT Academy Step\WinForms\Lesson08 Dialogs\EncryptDecrypt\obj\Debug\EncryptDecrypt.exe
+d:\Study\IT Academy Step\WinForms\Lesson08 Dialogs\EncryptDecrypt\obj\Debug\EncryptDecrypt.pdb
+D:\Study\IT Academy Step\WinForms\Code\Lesson08 Dialogs\EncryptDecrypt\bin\Debug\EncryptDecrypt.exe.config
+D:\Study\IT Academy Step\WinForms\Code\Lesson08 Dialogs\EncryptDecrypt\obj\Debug\EncryptDecrypt.exe
+D:\Study\IT Academy Step\WinForms\Code\Lesson08 Dialogs\EncryptDecrypt\obj\Debug\EncryptDecrypt.pdb
+D:\Study\IT Academy Step\WinForms\Code\Lesson08 Dialogs\EncryptDecrypt\bin\Debug\EncryptDecrypt.exe
+D:\Study\IT Academy Step\WinForms\Code\Lesson08 Dialogs\EncryptDecrypt\bin\Debug\EncryptDecrypt.pdb
+D:\Study\IT Academy Step\WinForms\Code\Lesson08 Dialogs\EncryptDecrypt\obj\Debug\EncryptDecrypt.csprojResolveAssemblyReference.cache
+D:\Study\IT Academy Step\WinForms\Code\Lesson08 Dialogs\EncryptDecrypt\obj\Debug\EncryptDecrypt.MainForm.resources
+D:\Study\IT Academy Step\WinForms\Code\Lesson08 Dialogs\EncryptDecrypt\obj\Debug\EncryptDecrypt.Properties.Resources.resources
+D:\Study\IT Academy Step\WinForms\Code\Lesson08 Dialogs\EncryptDecrypt\obj\Debug\EncryptDecrypt.csproj.GenerateResource.Cache

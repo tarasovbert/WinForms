@@ -1,0 +1,13 @@
+D:\Tarasov\WinForms\Code\Lesson13 GDI(GraphicsDeviceInterface)\Mosaic\bin\Debug\Mosaic.exe.config
+D:\Tarasov\WinForms\Code\Lesson13 GDI(GraphicsDeviceInterface)\Mosaic\bin\Debug\Mosaic.exe
+D:\Tarasov\WinForms\Code\Lesson13 GDI(GraphicsDeviceInterface)\Mosaic\bin\Debug\Mosaic.pdb
+D:\Tarasov\WinForms\Code\Lesson13 GDI(GraphicsDeviceInterface)\Mosaic\obj\Debug\Mosaic.csprojResolveAssemblyReference.cache
+D:\Tarasov\WinForms\Code\Lesson13 GDI(GraphicsDeviceInterface)\Mosaic\obj\Debug\Mosaic.Forms.HelpForm.resources
+D:\Tarasov\WinForms\Code\Lesson13 GDI(GraphicsDeviceInterface)\Mosaic\obj\Debug\Mosaic.MainForm.resources
+D:\Tarasov\WinForms\Code\Lesson13 GDI(GraphicsDeviceInterface)\Mosaic\obj\Debug\Mosaic.Properties.Resources.resources
+D:\Tarasov\WinForms\Code\Lesson13 GDI(GraphicsDeviceInterface)\Mosaic\obj\Debug\Mosaic.csproj.GenerateResource.Cache
+D:\Tarasov\WinForms\Code\Lesson13 GDI(GraphicsDeviceInterface)\Mosaic\obj\Debug\Mosaic.exe
+D:\Tarasov\WinForms\Code\Lesson13 GDI(GraphicsDeviceInterface)\Mosaic\obj\Debug\Mosaic.pdb
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson13 GDI(GraphicsDeviceInterface)\Mosaic\bin\Debug\Mosaic.exe.config
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson13 GDI(GraphicsDeviceInterface)\Mosaic\obj\Debug\Mosaic.exe
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson13 GDI(GraphicsDeviceInterface)\Mosaic\obj\Debug\Mosaic.pdb

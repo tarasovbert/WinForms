@@ -1,0 +1,9 @@
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\TestContainer\bin\Debug\TestContainer.exe.config
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\TestContainer\bin\Debug\TestContainer.exe
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\TestContainer\bin\Debug\TestContainer.pdb
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\TestContainer\obj\Debug\TestContainer.csprojResolveAssemblyReference.cache
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\TestContainer\obj\Debug\TestContainer.MainForm.resources
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\TestContainer\obj\Debug\TestContainer.Properties.Resources.resources
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\TestContainer\obj\Debug\TestContainer.csproj.GenerateResource.Cache
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\TestContainer\obj\Debug\TestContainer.exe
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\TestContainer\obj\Debug\TestContainer.pdb

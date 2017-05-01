@@ -1,0 +1,9 @@
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\Lesson03 ListElements\bin\Debug\Lesson03 ListElements.exe.config
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\Lesson03 ListElements\bin\Debug\Lesson03 ListElements.exe
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\Lesson03 ListElements\bin\Debug\Lesson03 ListElements.pdb
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\Lesson03 ListElements\obj\Debug\Lesson03 ListElements.csprojResolveAssemblyReference.cache
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\Lesson03 ListElements\obj\Debug\Lesson03_ListElements.MainForm.resources
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\Lesson03 ListElements\obj\Debug\Lesson03_ListElements.Properties.Resources.resources
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\Lesson03 ListElements\obj\Debug\Lesson03 ListElements.csproj.GenerateResource.Cache
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\Lesson03 ListElements\obj\Debug\Lesson03 ListElements.exe
+D:\Tarasov\WinForms\Code\Lesson03 ListElements\Lesson03 ListElements\obj\Debug\Lesson03 ListElements.pdb

@@ -1,0 +1,12 @@
+D:\work\TestDialogs\TestDialogs\bin\Debug\TestDialogs.exe.config
+D:\work\TestDialogs\TestDialogs\bin\Debug\TestDialogs.exe
+D:\work\TestDialogs\TestDialogs\bin\Debug\TestDialogs.pdb
+D:\work\TestDialogs\TestDialogs\obj\Debug\TestDialogs.csprojResolveAssemblyReference.cache
+D:\work\TestDialogs\TestDialogs\obj\Debug\TestDialogs.MainForm.resources
+D:\work\TestDialogs\TestDialogs\obj\Debug\TestDialogs.Properties.Resources.resources
+D:\work\TestDialogs\TestDialogs\obj\Debug\TestDialogs.csproj.GenerateResource.Cache
+D:\work\TestDialogs\TestDialogs\obj\Debug\TestDialogs.exe
+D:\work\TestDialogs\TestDialogs\obj\Debug\TestDialogs.pdb
+d:\Study\IT Academy Step\WinForms\Code\Lesson08 TestDialogs\TestDialogs\bin\Debug\TestDialogs.exe.config
+d:\Study\IT Academy Step\WinForms\Code\Lesson08 TestDialogs\TestDialogs\obj\Debug\TestDialogs.exe
+d:\Study\IT Academy Step\WinForms\Code\Lesson08 TestDialogs\TestDialogs\obj\Debug\TestDialogs.pdb

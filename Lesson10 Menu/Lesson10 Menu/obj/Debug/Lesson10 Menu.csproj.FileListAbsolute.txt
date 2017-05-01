@@ -1,0 +1,23 @@
+D:\Tarasov\WinForms\Code\Lesson10 Menu\Lesson10 Menu\bin\Debug\Lesson10 Menu.exe.config
+D:\Tarasov\WinForms\Code\Lesson10 Menu\Lesson10 Menu\bin\Debug\Lesson10 Menu.exe
+D:\Tarasov\WinForms\Code\Lesson10 Menu\Lesson10 Menu\bin\Debug\Lesson10 Menu.pdb
+D:\Tarasov\WinForms\Code\Lesson10 Menu\Lesson10 Menu\obj\Debug\Lesson10 Menu.csprojResolveAssemblyReference.cache
+D:\Tarasov\WinForms\Code\Lesson10 Menu\Lesson10 Menu\obj\Debug\Lesson10_Menu.MainForm.resources
+D:\Tarasov\WinForms\Code\Lesson10 Menu\Lesson10 Menu\obj\Debug\Lesson10_Menu.Properties.Resources.resources
+D:\Tarasov\WinForms\Code\Lesson10 Menu\Lesson10 Menu\obj\Debug\Lesson10 Menu.csproj.GenerateResource.Cache
+D:\Tarasov\WinForms\Code\Lesson10 Menu\Lesson10 Menu\obj\Debug\Lesson10 Menu.exe
+D:\Tarasov\WinForms\Code\Lesson10 Menu\Lesson10 Menu\obj\Debug\Lesson10 Menu.pdb
+D:\Tarasov\WinForms\Code\Lesson10 Menu\Lesson10 Menu\bin\Debug\AngleSharp.dll
+D:\Tarasov\WinForms\Code\Lesson10 Menu\Lesson10 Menu\bin\Debug\JetBrains.Annotations.dll
+D:\Tarasov\WinForms\Code\Lesson10 Menu\Lesson10 Menu\bin\Debug\Newtonsoft.Json.dll
+D:\Tarasov\WinForms\Code\Lesson10 Menu\Lesson10 Menu\bin\Debug\VkNet.dll
+D:\Tarasov\WinForms\Code\Lesson10 Menu\Lesson10 Menu\bin\Debug\AngleSharp.xml
+D:\Tarasov\WinForms\Code\Lesson10 Menu\Lesson10 Menu\bin\Debug\JetBrains.Annotations.xml
+D:\Tarasov\WinForms\Code\Lesson10 Menu\Lesson10 Menu\bin\Debug\Newtonsoft.Json.xml
+D:\Tarasov\WinForms\Code\Lesson10 Menu\Lesson10 Menu\bin\Debug\VkNet.xml
+d:\Study\IT Academy Step\WinForms\Code\Lesson10 Menu\Lesson10 Menu\bin\Debug\Lesson10 Menu.exe.config
+d:\Study\IT Academy Step\WinForms\Code\Lesson10 Menu\Lesson10 Menu\obj\Debug\Lesson10 Menu.exe
+d:\Study\IT Academy Step\WinForms\Code\Lesson10 Menu\Lesson10 Menu\obj\Debug\Lesson10 Menu.pdb
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson10 Menu\Lesson10 Menu\bin\Debug\Lesson10 Menu.exe.config
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson10 Menu\Lesson10 Menu\obj\Debug\Lesson10 Menu.exe
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson10 Menu\Lesson10 Menu\obj\Debug\Lesson10 Menu.pdb

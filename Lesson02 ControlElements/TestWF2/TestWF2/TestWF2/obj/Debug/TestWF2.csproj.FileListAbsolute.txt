@@ -1,0 +1,8 @@
+D:\work\TestWF2\TestWF2\bin\Debug\TestWF2.exe.config
+D:\work\TestWF2\TestWF2\bin\Debug\TestWF2.exe
+D:\work\TestWF2\TestWF2\bin\Debug\TestWF2.pdb
+D:\work\TestWF2\TestWF2\obj\Debug\TestWF2.MainForm.resources
+D:\work\TestWF2\TestWF2\obj\Debug\TestWF2.Properties.Resources.resources
+D:\work\TestWF2\TestWF2\obj\Debug\TestWF2.csproj.GenerateResource.Cache
+D:\work\TestWF2\TestWF2\obj\Debug\TestWF2.exe
+D:\work\TestWF2\TestWF2\obj\Debug\TestWF2.pdb

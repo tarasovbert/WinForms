@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson12 MultiDocumentInterface", "Lesson12 MultiDocumentInterface\Lesson12 MultiDocumentInterface.csproj", "{CF212813-06B8-4676-9209-C4D557CAB498}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsFile", "CardFile\CarsFile.csproj", "{38DA5AE6-9055-4813-AF25-7455F52881B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF212813-06B8-4676-9209-C4D557CAB498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF212813-06B8-4676-9209-C4D557CAB498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF212813-06B8-4676-9209-C4D557CAB498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF212813-06B8-4676-9209-C4D557CAB498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38DA5AE6-9055-4813-AF25-7455F52881B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38DA5AE6-9055-4813-AF25-7455F52881B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38DA5AE6-9055-4813-AF25-7455F52881B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38DA5AE6-9055-4813-AF25-7455F52881B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

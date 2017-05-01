@@ -1,0 +1,38 @@
+D:\Tarasov\WinForms\Code\Lesson10 Menu\VKApi\bin\Debug\VKApi.exe.config
+D:\Tarasov\WinForms\Code\Lesson10 Menu\VKApi\bin\Debug\VKApi.exe
+D:\Tarasov\WinForms\Code\Lesson10 Menu\VKApi\bin\Debug\VKApi.pdb
+D:\Tarasov\WinForms\Code\Lesson10 Menu\VKApi\bin\Debug\AngleSharp.dll
+D:\Tarasov\WinForms\Code\Lesson10 Menu\VKApi\bin\Debug\JetBrains.Annotations.dll
+D:\Tarasov\WinForms\Code\Lesson10 Menu\VKApi\bin\Debug\Newtonsoft.Json.dll
+D:\Tarasov\WinForms\Code\Lesson10 Menu\VKApi\bin\Debug\VkNet.dll
+D:\Tarasov\WinForms\Code\Lesson10 Menu\VKApi\bin\Debug\AngleSharp.xml
+D:\Tarasov\WinForms\Code\Lesson10 Menu\VKApi\bin\Debug\JetBrains.Annotations.xml
+D:\Tarasov\WinForms\Code\Lesson10 Menu\VKApi\bin\Debug\Newtonsoft.Json.xml
+D:\Tarasov\WinForms\Code\Lesson10 Menu\VKApi\bin\Debug\VkNet.xml
+D:\Tarasov\WinForms\Code\Lesson10 Menu\VKApi\obj\Debug\VKApi.csprojResolveAssemblyReference.cache
+D:\Tarasov\WinForms\Code\Lesson10 Menu\VKApi\obj\Debug\VKApi.Properties.Resources.resources
+D:\Tarasov\WinForms\Code\Lesson10 Menu\VKApi\obj\Debug\VKApi.csproj.GenerateResource.Cache
+D:\Tarasov\WinForms\Code\Lesson10 Menu\VKApi\obj\Debug\VKApi.exe
+D:\Tarasov\WinForms\Code\Lesson10 Menu\VKApi\obj\Debug\VKApi.pdb
+D:\Tarasov\WinForms\Code\Lesson10 Menu\VKApi\obj\Debug\VK_Api.AuthorizationForm.resources
+D:\Tarasov\WinForms\Code\Lesson10 Menu\VKApi\obj\Debug\VK_Api.MainForm.resources
+D:\Tarasov\WinForms\Code\Lesson10 Menu\VKApi\obj\Debug\Vk_Api.CaptchaForm.resources
+d:\Study\IT Academy Step\WinForms\Code\Lesson10 Menu\VKApi\bin\Debug\VKApi.exe.config
+d:\Study\IT Academy Step\WinForms\Code\Lesson10 Menu\VKApi\obj\Debug\VKApi.exe
+d:\Study\IT Academy Step\WinForms\Code\Lesson10 Menu\VKApi\obj\Debug\VKApi.pdb
+d:\Study\IT Academy Step\WinForms\Code\Lesson10 Menu\VKApi\bin\Debug\VKApi.exe
+d:\Study\IT Academy Step\WinForms\Code\Lesson10 Menu\VKApi\bin\Debug\VKApi.pdb
+d:\Study\IT Academy Step\WinForms\Code\Lesson10 Menu\VKApi\bin\Debug\AngleSharp.dll
+d:\Study\IT Academy Step\WinForms\Code\Lesson10 Menu\VKApi\bin\Debug\JetBrains.Annotations.dll
+d:\Study\IT Academy Step\WinForms\Code\Lesson10 Menu\VKApi\bin\Debug\Newtonsoft.Json.dll
+d:\Study\IT Academy Step\WinForms\Code\Lesson10 Menu\VKApi\bin\Debug\VkNet.dll
+d:\Study\IT Academy Step\WinForms\Code\Lesson10 Menu\VKApi\bin\Debug\AngleSharp.xml
+d:\Study\IT Academy Step\WinForms\Code\Lesson10 Menu\VKApi\bin\Debug\JetBrains.Annotations.xml
+d:\Study\IT Academy Step\WinForms\Code\Lesson10 Menu\VKApi\bin\Debug\Newtonsoft.Json.xml
+d:\Study\IT Academy Step\WinForms\Code\Lesson10 Menu\VKApi\bin\Debug\VkNet.xml
+d:\Study\IT Academy Step\WinForms\Code\Lesson10 Menu\VKApi\obj\Debug\VKApi.csprojResolveAssemblyReference.cache
+d:\Study\IT Academy Step\WinForms\Code\Lesson10 Menu\VKApi\obj\Debug\VK_Api.AuthorizationForm.resources
+d:\Study\IT Academy Step\WinForms\Code\Lesson10 Menu\VKApi\obj\Debug\Vk_Api.CaptchaForm.resources
+d:\Study\IT Academy Step\WinForms\Code\Lesson10 Menu\VKApi\obj\Debug\VK_Api.MainForm.resources
+d:\Study\IT Academy Step\WinForms\Code\Lesson10 Menu\VKApi\obj\Debug\VKApi.Properties.Resources.resources
+d:\Study\IT Academy Step\WinForms\Code\Lesson10 Menu\VKApi\obj\Debug\VKApi.csproj.GenerateResource.Cache

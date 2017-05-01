@@ -1,0 +1,9 @@
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson06 Forms\Lesson06 Forms\bin\Release\Lesson06 Forms.exe.config
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson06 Forms\Lesson06 Forms\bin\Release\Lesson06 Forms.exe
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson06 Forms\Lesson06 Forms\bin\Release\Lesson06 Forms.pdb
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson06 Forms\Lesson06 Forms\obj\Release\Lesson06_Forms.Forms.SecondForm.resources
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson06 Forms\Lesson06 Forms\obj\Release\Lesson06_Forms.MainForm.resources
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson06 Forms\Lesson06 Forms\obj\Release\Lesson06_Forms.Properties.Resources.resources
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson06 Forms\Lesson06 Forms\obj\Release\Lesson06 Forms.csproj.GenerateResource.Cache
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson06 Forms\Lesson06 Forms\obj\Release\Lesson06 Forms.exe
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson06 Forms\Lesson06 Forms\obj\Release\Lesson06 Forms.pdb

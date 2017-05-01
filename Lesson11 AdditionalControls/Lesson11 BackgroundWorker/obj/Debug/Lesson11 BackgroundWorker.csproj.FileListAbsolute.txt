@@ -1,0 +1,19 @@
+D:\Tarasov\WinForms\Code\Lesson11 BackgroundWorker\Lesson11 BackgroundWorker\bin\Debug\Lesson11 BackgroundWorker.exe.config
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 BackgroundWorker\bin\Debug\Lesson11 BackgroundWorker.exe.config
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 BackgroundWorker\bin\Debug\Lesson11 BackgroundWorker.exe
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 BackgroundWorker\bin\Debug\Lesson11 BackgroundWorker.pdb
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 BackgroundWorker\obj\Debug\Lesson11 BackgroundWorker.csprojResolveAssemblyReference.cache
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 BackgroundWorker\obj\Debug\Lesson11_BackgroundWorker.MainForm.resources
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 BackgroundWorker\obj\Debug\Lesson11_BackgroundWorker.Properties.Resources.resources
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 BackgroundWorker\obj\Debug\Lesson11 BackgroundWorker.csproj.GenerateResource.Cache
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 BackgroundWorker\obj\Debug\Lesson11 BackgroundWorker.exe
+D:\Tarasov\WinForms\Code\Lesson11 AdditionalControls\Lesson11 BackgroundWorker\obj\Debug\Lesson11 BackgroundWorker.pdb
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson11 AdditionalControls\Lesson11 BackgroundWorker\bin\Debug\Lesson11 BackgroundWorker.exe.config
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson11 AdditionalControls\Lesson11 BackgroundWorker\obj\Debug\Lesson11 BackgroundWorker.exe
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson11 AdditionalControls\Lesson11 BackgroundWorker\obj\Debug\Lesson11 BackgroundWorker.pdb
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson11 AdditionalControls\Lesson11 BackgroundWorker\bin\Debug\Lesson11 BackgroundWorker.exe
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson11 AdditionalControls\Lesson11 BackgroundWorker\bin\Debug\Lesson11 BackgroundWorker.pdb
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson11 AdditionalControls\Lesson11 BackgroundWorker\obj\Debug\Lesson11 BackgroundWorker.csprojResolveAssemblyReference.cache
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson11 AdditionalControls\Lesson11 BackgroundWorker\obj\Debug\Lesson11_BackgroundWorker.MainForm.resources
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson11 AdditionalControls\Lesson11 BackgroundWorker\obj\Debug\Lesson11_BackgroundWorker.Properties.Resources.resources
+D:\Study\IT Academy Step\WinForms\Winforms\Lesson11 AdditionalControls\Lesson11 BackgroundWorker\obj\Debug\Lesson11 BackgroundWorker.csproj.GenerateResource.Cache

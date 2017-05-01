@@ -1,0 +1,16 @@
+D:\work\TestWF2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\work\TestWF2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\work\TestWF2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\work\TestWF2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\work\TestWF2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\work\TestWF2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\work\TestWF2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\work\TestWF2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+f:\WinForms\Code\Lesson02 ControlElements\TestWF2\TestWF2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+f:\WinForms\Code\Lesson02 ControlElements\TestWF2\TestWF2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+f:\WinForms\Code\Lesson02 ControlElements\TestWF2\TestWF2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+f:\WinForms\Code\Lesson02 ControlElements\TestWF2\TestWF2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+f:\WinForms\Code\Lesson02 ControlElements\TestWF2\TestWF2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+f:\WinForms\Code\Lesson02 ControlElements\TestWF2\TestWF2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+f:\WinForms\Code\Lesson02 ControlElements\TestWF2\TestWF2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+f:\WinForms\Code\Lesson02 ControlElements\TestWF2\TestWF2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

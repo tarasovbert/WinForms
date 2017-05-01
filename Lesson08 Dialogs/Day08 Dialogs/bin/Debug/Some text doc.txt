@@ -1,0 +1,9 @@
+ private void btn_Open_Click(object sender, EventArgs e)
+        {
+            openFileDialog_Main.Filter = "Txt files (*.txt)|(*.txt)|All files (*.*)|(*.*)";
+            if(openFileDialog_Main.ShowDialog() == DialogResult.OK)
+            {
+                string pathFile = openFileDialog_Main.FileName;
+                tb_Main.Text =  File.ReadAllText(pathFile, Encoding.Default);
+            }
+        }
